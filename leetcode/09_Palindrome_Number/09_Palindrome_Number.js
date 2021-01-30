@@ -7,4 +7,4 @@ var isPalindrome = function (x) {
   return true;
 };
 
-console.log(isPalindrome(121));
+// console.log(isPalindrome(121));
